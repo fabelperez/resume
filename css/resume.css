@@ -160,7 +160,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #0D99FA !#531DFB(purple) !#0D99FA (og burnt orange) important;
+background-color: #0D99FA !#531DFB(purple) !#0D99FA (og burnt orange) important;
 }
 
 .text-primary {
@@ -174,8 +174,3 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-
-.fa-trophy{
-  color :   color: #0D99FA;
-}
-
