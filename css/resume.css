@@ -160,7 +160,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-background-color: #0D99FA !#531DFB(purple) !#0D99FA (og burnt orange) important;
+background-color: #0D99FA !important; 
+/*!#0D99FA(current light blue color) !#531DFB(purple) !#BD5D38(og burnt orange) important;*/
 }
 
 .text-primary {
